@@ -7,7 +7,7 @@ This will choose a random quote from the array and display them using 2 textfiel
 
 The author text will be offset from the quote text (in the bottom right of it, to be exact).
 
-##Example
+## Example
 
 ![](demo.gif)
 
